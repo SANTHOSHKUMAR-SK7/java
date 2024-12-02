@@ -1,0 +1,6 @@
+JAVA ERRORS:
+
+*  Unresolved compilation problem:local variable "__" may not have initialized
+			------V hve to initial some values to variable
+
+*  

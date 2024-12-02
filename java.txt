@@ -1,0 +1,21 @@
+Method Overloading / Function overloading :
+       
+		*Function name shld be same
+		*Parameter may different
+
+Constructors :
+
+		*used to initialized object
+		*It is called when object of class is created
+		*When we create the obj,constr will automatically called
+
+Constructor Overloading/Parameterized Constructor:
+
+		*Constructor name shld be same
+		*Parameter may differ
+
+		
+
+  
+
+		 
